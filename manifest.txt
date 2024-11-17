@@ -1,3 +1,4 @@
 repoOwner=kito1z
-repoName=BootesVoid
-brench=main
+repoName=BootesVoid;
+repoOwner=kito1z
+repoName=BootesVoid;
