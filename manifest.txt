@@ -1,4 +1,2 @@
 repoOwner=kito1z
-repoName=Invasion;
-repoOwner=kito1z
 repoName=CommunityMods
