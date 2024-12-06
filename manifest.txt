@@ -1,2 +1,4 @@
 repoOwner=kito1z
-repoName=CommunityMods
+repoName=CommunityMods;
+repoOwner=kito1z
+repoName=Deathworld
