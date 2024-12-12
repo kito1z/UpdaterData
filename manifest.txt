@@ -1,6 +1,0 @@
-repoOwner=kito1z
-repoName=CommunityMods;
-repoOwner=kito1z
-repoName=Deathworld;
-repoOwner=kito1z
-repoName=UpdaterData
