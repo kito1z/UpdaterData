@@ -13,5 +13,13 @@
       "v1.1.1",
       "v1.2.0"
     ]
+  },
+  {
+    "owner": "kito1z",
+    "repo": "ExpressModpack",
+    "name": "Express",
+    "versions": [
+      "v1.0.0"
+    ]
   }
 ]
