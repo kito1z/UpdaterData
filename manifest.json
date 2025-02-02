@@ -24,5 +24,13 @@
       "v1.1.0-f1",
       "v1.1.2"
     ]
+  },
+  {
+    "owner": "kito1z",
+    "repo": "DarkAssault",
+    "name": "DarkAssault",
+    "versions": [
+      "v1.0.0"
+    ]
   }
 ]
