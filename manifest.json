@@ -36,4 +36,13 @@
       "v1.1.2"
     ]
   }
+  ,
+  {
+    "owner": "kito1z",
+    "repo": "deathworld2",
+    "name": "deathworld2",
+    "versions": [
+      "v1.0.0"
+    ]
+  }
 ]
