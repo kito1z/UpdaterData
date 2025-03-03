@@ -48,5 +48,13 @@
       "v1.2.2",
       "v1.2.3"
     ]
+  },
+  {
+    "owner": "kito1z",
+    "repo": "Satiscraft",
+    "name": "Satiscraft",
+    "versions": [
+      "v0.1.0"
+    ]
   }
 ]
