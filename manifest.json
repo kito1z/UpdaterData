@@ -1,32 +1,7 @@
 [
   {
     "owner": "kito1z",
-    "repo": "VanillaPlus",
-    "name": "vanilla +"
-  },
-  {
-    "owner": "kito1z",
-    "repo": "Satiscraft3",
-    "name": "Satiscraft 3"
-  },
-  {
-    "owner": "kito1z",
-    "repo": "SatiscraftReloaded",
-    "name": "Satiscraft"
-  },
-  {
-    "owner":"kito1z",
-    "repo":"SatiscraftExpress",
-    "name":"Satiscraft (Express)"
-  },
-  {
-    "owner": "kito1z",
-    "repo": "Shooting",
-    "name": "Shooting"
-  },
-  {
-    "owner": "kito1z",
-    "repo": "createlite",
-    "name": "Create Lite (NF 1.21.1)"
+    "repo": "DeadmansSwitch",
+    "name": "The dead man's switch"
   }
 ]
